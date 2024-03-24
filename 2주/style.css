@@ -1,0 +1,22 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.picture{
+    width: 300px;
+    height: 300px;
+    margin-top : 20px;
+    margin-left: 400px;
+    background-image: url("https://cs4.pikabu.ru/post_img/2016/07/03/9/1467557423892895.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+a{
+    text-decoration-line:none;
+
+}
